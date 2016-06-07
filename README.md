@@ -1,6 +1,6 @@
 # google-alert-feed-reader
 ##Reads Google Alert feeds and writes it to a database##
-A (very) simple Google Alert feed reader that let's you collect  
+A (very) simple Google Alert feed reader that let's you collect
 information of a Google Alert feed url and writes it into a MySQL table.  
   
 Remember to edit the config.php file :)  
