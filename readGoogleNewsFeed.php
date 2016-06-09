@@ -16,5 +16,5 @@ $entries = $googleFeed->getEntries();
 
 foreach( $entries as $entry ) {
     $dbEntry = new \DB\Entry($entry);
-    $dbEntry->write();
+    $dbEntry->save();
 }

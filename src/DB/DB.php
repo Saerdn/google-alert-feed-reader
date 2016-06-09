@@ -8,7 +8,7 @@
  */
 namespace DB;
 
-abstract class DB
+class DB
 {
     protected $table = '';
     protected $dbc = null;

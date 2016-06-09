@@ -31,7 +31,7 @@ class Entry extends DB
         $this->author = $entry->getAuthor();
     }
 
-    public function write() {
+    public function save() {
         parent::write(
             array(
                 'id' => $this->id,
