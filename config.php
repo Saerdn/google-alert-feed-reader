@@ -8,7 +8,7 @@
  */
 
 // Feed url
-define("FEEDURL", "https://www.google.de/alerts/feeds/01168686566395202486/12156091859149229280");
+define("FEEDURL", "YOURFEEDURL");
 
 // Database credentials
 define("DATABASE", "");
